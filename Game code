@@ -1,5 +1,5 @@
 /*
-  🐍 Arduino Snake Game on 16x8 LED Matrix (Dual MAX7219)
+  🐍 Retro-Snake-Game-with-Arduino-Nano-Joystick-Matrix(MAX7219)
   -------------------------------------------------------
   This project brings the classic Snake game to life using two 8x8 MAX7219 LED matrices 
   combined into a single 16x8 display. Control the snake with a joystick and enjoy a smooth, 
